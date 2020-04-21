@@ -1,5 +1,5 @@
 {
-  "name": "@bikeshaving/crank",
+  "name": "crank-umd",
   "version": "0.1.0",
   "license": "MIT",
   "description": "JSX-based components with functions, promises and generators.",
